@@ -5,7 +5,7 @@ Showing of a random card from a API
 
 # DEMO
 
-<img src="./demop.gif" />
+<img src="./dmeop.gif" />
 
 ## API Reference
 
