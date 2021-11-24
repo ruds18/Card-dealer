@@ -3,6 +3,9 @@
 
 Showing of a random card from a API
 
+# DEMO
+
+<img src="./Demo.png">
 
 ## API Reference
 
@@ -38,11 +41,6 @@ Add deck_count as a GET or POST parameter to define the number of Decks you want
 | Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
 | Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-
-# DEMO
-
-<img src="./Demo.png">
-
 
 
 ## 🛠 Skills
