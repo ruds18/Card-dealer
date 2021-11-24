@@ -44,15 +44,15 @@ export default class Deck extends Component {
 
     }
     render() {
-        const cards = this.state.drawn.map(card =>(
-                <Card key={card.id} name={card.name} image={card.image} id={card.id}></Card>
+        const cards = this.state.drawn.map(card => (
+            <Card key={card.id} name={card.name} image={card.image} id={card.id}></Card>
         ))
         return (
-            <div>
-                <h1>Card Dealer!</h1>
-                <button onClick={this.getCard}>Get Card</button>
+            <div className="Deck">
+                <h1 className="title">Card Dealer!</h1>
+                <h2 className="subtitle">A little demo made with React and DeckofCards API </h2>
+                <button className="btn" onClick={this.getCard}>Get Card</button>
                 <div className="Deck_Card">{cards}</div>
-                
             </div>
         )
     }

@@ -1,3 +1,37 @@
 .Deck_Card{
     margin-top: 80px;
 }
+.title{
+    color: azure;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.subtitle{
+    color: azure;
+    font-size: 3vh;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.btn{
+    background: none;
+    border:2px solid;
+    border-radius: 20%;
+    padding: 2em , 3em;
+    outline: none;
+    font:inherit;
+    margin: 0.5em;
+    color: #009688;
+    transition: 0.25s;
+}
+.btn:hover {
+    border-color: #4caf50;
+}
+@media screen and (max-width: 600px) {
+    .title{
+        font-size: ;
+    }
+    .subtitle {
+      font-size: 10px;
+      letter-spacing: 1px;
+    }
+  }
