@@ -39,8 +39,13 @@ Add deck_count as a GET or POST parameter to define the number of Decks you want
 | Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
+# DEMO
+
+<img src="./Demo.png">
+
+
 
 ## 🛠 Skills
 Reactjs, HTML, CSS...
 
-  
+
