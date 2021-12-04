@@ -4,6 +4,7 @@
 Showing of a random card from a API
 
 # DEMO
+[Link to Google](https://rudsapp-carddealer.netlify.app)
 
 <img src="./dmeop.gif" />
 
